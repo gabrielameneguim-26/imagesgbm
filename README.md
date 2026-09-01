@@ -1,2 +1,2 @@
-# imagesgbm
-my first repository of images
+# gbmstrategy
+landing page
